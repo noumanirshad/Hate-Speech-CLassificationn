@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 
-project_name = "ML_Project"
+project_name = "Hate_Speech_Classifier"
 
 list_of_files = [
     # ".github/workflows/.gitkeep",
