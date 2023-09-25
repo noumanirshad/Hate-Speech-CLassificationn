@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Hate_Speech_Classifier.egg-info"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

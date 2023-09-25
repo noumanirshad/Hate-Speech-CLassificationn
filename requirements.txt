@@ -6,7 +6,7 @@ seaborn
 nltk
 regex  # Corrected from 'regax'
 spacy
-scikit-learn
+scikit-learn==0.24.2
 google-cloud-storage
 fastapi==0.78.0
 uvicorn==0.18.3
